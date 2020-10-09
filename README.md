@@ -1,2 +1,1 @@
-# noteful
-practice with react
+# Noteful Client
