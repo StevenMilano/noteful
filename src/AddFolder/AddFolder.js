@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 import config from '../config';
 import PropTypes from 'prop-types';
 
